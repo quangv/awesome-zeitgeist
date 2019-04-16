@@ -1,2 +1,7 @@
-# awesome-zeitgeist
+# Awesome Zeitgeist
 Surveys and trends relevant to front-end development.
+
+- https://stateofjs.com/ - State of JS
+- https://frontendmasters.com/books/front-end-handbook/2019/ - Front-end Hanbook 2019
+- https://ashleynolan.co.uk/blog/frontend-tooling-survey-2018-results - The Front-End Tooling Survey 2018
+- https://uxtools.co/survey-2018 - 2018 Design Tools Survey
