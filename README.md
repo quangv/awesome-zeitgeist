@@ -9,3 +9,8 @@ Surveys and trends relevant to front-end development.
 
 Know of any other good industry pulse / trends or popular tools surveys?
 PRs are welcome.
+
+## Popularity
+
+- https://www.tiobe.com/tiobe-index/ - Most popular programming languages
+- https://www.capterra.com/project-management-software/#infographic - Project management software
