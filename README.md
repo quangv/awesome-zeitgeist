@@ -6,6 +6,7 @@ Surveys and trends relevant to front-end development.
 - https://ashleynolan.co.uk/blog/frontend-tooling-survey-2018-results - The Front-End Tooling Survey 2018
 - https://uxtools.co/survey-2018 - 2018 Design Tools Survey
 - https://stateofcss.com/ - State of CSS (stay tuned!)
+- https://insights.stackoverflow.com/survey/ - StackOverflow Developer Survery
 
 Know of any other good industry pulse / trends or popular tools surveys?
 PRs are welcome.
