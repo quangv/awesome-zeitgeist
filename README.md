@@ -8,8 +8,14 @@ Surveys and trends relevant to front-end development.
 - https://stateofcss.com/ - State of CSS (stay tuned!)
 - https://insights.stackoverflow.com/survey/ - StackOverflow Developer Survery
 
+## Other
+
+- https://www.activestate.com/resources/white-papers/developer-survey-2019-open-source-runtime-pains/
+
 Know of any other good industry pulse / trends or popular tools surveys?
 PRs are welcome.
+
+
 
 ## Popularity
 
