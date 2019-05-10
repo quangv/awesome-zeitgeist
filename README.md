@@ -14,7 +14,7 @@ These conferences are cornerstones for announcements of industry innovations.
 - https://events.google.com/io/ - Google I/O
 - https://www.f8.com/ - Facebook F8
 - https://developer.apple.com/wwdc19/ - Apple Worldwide Developers Conference
-  - https://www.apple.com/apple-events/ - other Apple events
+  - https://www.apple.com/apple-events/ - other events
 - https://reinvent.awsevents.com/ - Amazon AWS re:Invent
 
 ## Other
