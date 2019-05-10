@@ -8,6 +8,15 @@ Surveys and trends relevant to front-end development.
 - https://stateofcss.com/ - State of CSS (stay tuned!)
 - https://insights.stackoverflow.com/survey/ - StackOverflow Developer Survery
 
+# Conferences
+These conferences are cornerstones for announcements of industry innovations.
+
+- https://events.google.com/io/ - Google I/O
+- https://www.f8.com/ - Facebook F8
+- https://developer.apple.com/wwdc19/ - Apple Worldwide Developers Conference
+  - https://www.apple.com/apple-events/ - other Apple events
+- https://reinvent.awsevents.com/ - Amazon AWS re:Invent
+
 ## Other
 
 - https://www.activestate.com/resources/white-papers/developer-survey-2019-open-source-runtime-pains/
