@@ -16,6 +16,7 @@ These conferences are cornerstones for announcements of industry innovations.
 - https://developer.apple.com/wwdc19/ - Apple Worldwide Developers Conference
   - https://www.apple.com/apple-events/ - other events
 - https://reinvent.awsevents.com/ - Amazon AWS re:Invent
+- https://www.microsoft.com/en-us/build - Microsoft Build Developers Conference
 
 ## Other
 
