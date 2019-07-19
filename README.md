@@ -8,7 +8,7 @@ Surveys and trends relevant to front-end development.
 - https://stateofcss.com/ - State of CSS (stay tuned!)
 - https://insights.stackoverflow.com/survey/ - StackOverflow Developer Survery
 
-# Conferences
+## Conferences
 These conferences are cornerstones for announcements of industry innovations.
 
 - https://events.google.com/io/ - Google I/O
@@ -18,16 +18,21 @@ These conferences are cornerstones for announcements of industry innovations.
 - https://reinvent.awsevents.com/ - Amazon AWS re:Invent
 - https://www.microsoft.com/en-us/build - Microsoft Build Developers Conference
 
-## Other
 
-- https://www.activestate.com/resources/white-papers/developer-survey-2019-open-source-runtime-pains/
+## Trends
 
-Know of any other good industry pulse / trends or popular tools surveys?
-PRs are welcome.
-
+- https://trennd.co/ - Trennd surfaces rapidly growing google search topics - so you can find the next big thing!
 
 
 ## Popularity
 
 - https://www.tiobe.com/tiobe-index/ - Most popular programming languages
 - https://www.capterra.com/project-management-software/#infographic - Project management software
+
+
+## Other
+
+- https://www.activestate.com/resources/white-papers/developer-survey-2019-open-source-runtime-pains/
+
+Know of any other good industry pulse / trends or popular tools surveys?
+PRs are welcome.
