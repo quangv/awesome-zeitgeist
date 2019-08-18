@@ -10,6 +10,7 @@ Surveys and trends relevant to front-end development.
 - https://uxtools.co/survey-2018 - 2018 Design Tools Survey
 - https://stateofcss.com/ - State of CSS (stay tuned!)
 - https://insights.stackoverflow.com/survey/ - StackOverflow Developer Survery
+- https://hacks.mozilla.org/2019/07/mdn-web-developer-designer-survey/ - MDN Developer and Designer Survey (announcement)
 
 
 ## Conferences
