@@ -1,9 +1,10 @@
 # Awesome Zeitgeist
-Surveys and trends relevant to front-end development.
+Surveys and trends relevant to design and development.
 
 
 ## Community Surveys
 
+- https://insights.stackoverflow.com/survey/2019
 - https://stateofjs.com/ - State of JS
 - https://frontendmasters.com/books/front-end-handbook/2019/ - Front-end Hanbook 2019
 - https://ashleynolan.co.uk/blog/frontend-tooling-survey-2018-results - The Front-End Tooling Survey 2018
