@@ -12,6 +12,7 @@ Surveys and trends relevant to design and development.
 - https://stateofcss.com/ - State of CSS (stay tuned!)
 - https://insights.stackoverflow.com/survey/ - StackOverflow Developer Survery
 - https://hacks.mozilla.org/2019/07/mdn-web-developer-designer-survey/ - MDN Developer and Designer Survey (announcement)
+- https://octoverse.github.com/ - The state of GitHub
 
 
 ## Conferences
