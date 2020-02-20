@@ -14,6 +14,7 @@ Surveys and trends relevant to design and development.
 - https://insights.stackoverflow.com/survey/ - StackOverflow Developer Survery
 - https://hacks.mozilla.org/2019/07/mdn-web-developer-designer-survey/ - MDN Developer and Designer Survey (announcement)
 - https://octoverse.github.com/ - The state of GitHub
+- https://hired.com/page/state-of-software-engineers/ - Hired, State of Software Engineers
 
 
 ## Conferences
