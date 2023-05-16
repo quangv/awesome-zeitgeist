@@ -16,6 +16,10 @@ Surveys and trends relevant to design and development.
 - https://octoverse.github.com/ - The state of GitHub
 - https://hired.com/page/state-of-software-engineers/ - Hired, State of Software Engineers
 
+### 2023
+
+- https://reactsummit.com/schedule - June 2023
+
 ### 2020
 
 - https://insights.stackoverflow.com/survey/2020 - Stack Overflow Annual Developer Survey
